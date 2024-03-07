@@ -2,7 +2,7 @@
 
 ## Overview
 
-InsightBot is an AI-powered chat assistant designed to help you extract valuable insights from your PDF documents. Whether you have legal documents, research papers, or any other PDFs, InsightBot assists you in understanding and querying the content.
+InsightBot is an AI-powered PDF chat assistant designed to simplify the process of extracting insights from PDF documents. Upload your PDFs, engage in natural language conversations, and let InsightBot provide valuable information from your documents. With conversational memory and retrieval features, InsightBot enhances the interaction, making it easy to query and understand your PDF content.
 
 ## Features
 
