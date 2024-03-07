@@ -21,7 +21,7 @@ InsightBot is an AI-powered chat assistant designed to help you extract valuable
 
 To run InsightBot locally, follow these steps:
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/SuryaBharathi310/InsightBot-AI-PDF-Chat-Assitant.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 
